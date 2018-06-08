@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ApacheAnt1.9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ApacheEmpireDB2.4.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ApacheLog4j1.2.15"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JSONSimple1.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MariaDBClient2.1.2"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQLConnector5.1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/OJDBC7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/POI3.5"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/PostgreSQL9.4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SLF4J1.5.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Xerxes2.9.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JUnit4.10"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
